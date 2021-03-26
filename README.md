@@ -25,3 +25,11 @@ public abstract class GitHubUser {
   }
 }
 ```
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Ingmar-van-Busschbach&count_private=true&show_icons=true&theme=dark&hide_border=false" alt="github stats">
+    </td>
+  </tr>
+</table>
