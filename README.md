@@ -4,7 +4,7 @@ public class Ingmar extends GitHubUser {
   public Ingmar() {
     super("Ingmar van Busschbach", "Netherlands");
 
-    this.addLanguage("C#", "Javascript", "C++", "HTML", "CSS");
+    this.addLanguage("C#", "Javascript", "C++", "HTML", "CSS", "Dutch", "English", "German");
   }
 }
 
