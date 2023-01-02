@@ -1,28 +1,32 @@
 ```java
 public class Ingmar extends GitHubUser {
-
-  public Ingmar() {
+    public Ingmar() {
     super("Ingmar van Busschbach", "Netherlands");
 
-    this.addLanguage("C#", "Javascript", "C++", "HTML", "CSS", "Dutch", "English", "German");
-  }
+    this.addLanguage("C#", "C++", "Javascript", "HTML", "CSS", "HLSL", "Dutch", "English", "German");
+    this.addDiscipline("Unreal Engine", "Unity", "Game Designer", "Systems Designer", "Level Designer", "Gameplay Programmer", "Systems programmer", "Shader      Programmer", "Procedural Art Programmer");
+    }
 }
 
 public abstract class GitHubUser {
 
-  private final String name;
-  private final String country;
+    private final String name;
+    private final String country;
 
-  private ArrayList<String> languages = new ArrayList<>();
+    private ArrayList<String> languages = new ArrayList<>();
+    private ArrayList<String> disciplines = new ArrayList<>();
 
-  public GitHubUser(String name, String country) {
-      this.name = name;
-      this.country = country;
-  }
+    public GitHubUser(String name, String country) {
+        this.name = name;
+        this.country = country;
+    }
 
-  public void addLanguage(String... language) {
-    languages.addAll(language);
-  }
+    public void addLanguage(String... language) {
+        languages.addAll(language);
+    }
+    public void addDiscipline(String... discipline) {
+        disciplines.addAll(discipline);
+    }
 }
 ```
 
