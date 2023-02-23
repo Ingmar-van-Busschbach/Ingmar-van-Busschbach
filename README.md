@@ -4,7 +4,7 @@ public class Ingmar extends GitHubUser {
     super("Ingmar van Busschbach", "Netherlands");
 
     this.addLanguage("C#", "C++", "Javascript", "HTML", "CSS", "HLSL", "Dutch", "English", "German");
-    this.addDiscipline("Unreal Engine", "Unity", "Game Designer", "Systems Designer", "Level Designer", "Gameplay Programmer", "Systems programmer", "Shader      Programmer", "Procedural Art Programmer");
+    this.addDiscipline("Unreal Engine", "Unity", "Game Designer", "Systems Designer", "Level Designer", "Gameplay Programmer", "Systems programmer", "Shader Programmer", "Procedural Art Programmer");
     }
 }
 
