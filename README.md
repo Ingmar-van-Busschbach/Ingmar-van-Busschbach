@@ -1,4 +1,4 @@
-Summary:
+### Summary:
 A creative and detail-oriented game engineer and designer with seven years of
 experience in Unreal Engine 4, Unreal Engine 5 and Unity, working on projects
 in teams of 7-12 people fulfilling various roles within the team. My agile, test-
@@ -6,7 +6,7 @@ driven approach has shaped me into an adaptable team player focused on
 quality and innovation. I am always eager to learn new things and try new
 approaches.
 
-Education and work experiences:
+### Education and work experiences:
 - Bachelor Game Engineering at Saxion University of Applied Sciences (2025-
 Current)
 - Propaedeutic Certificate Bachelor Game Engineering at Saxion University of
@@ -18,7 +18,7 @@ Sciences (2024)
 (2022-2023)
 - High School HAVO Degree (2019)
 
-Credited for the following games:
+### Credited for the following games:
 - Generation Zero (2017-2025, small testing team) Private Alpha & Beta Tester
 - Project Acceleracer (2020-2026, 10-man team) Product owner, Lead Developer,
 Project Manager
@@ -28,11 +28,12 @@ Project Manager
 - Copper Clash (2024, 12-man team) Systems Designer, UI Programmer
 - Gravity Up (2023, 1-man team) Solo Developer
 
-Languages
+### Languages
 - Fluent in Dutch and English
 - Intermediate in German
 - Beginner in Swedish
-Soft Skills
+
+### Soft Skills
 - Assertive
 - Attention to detail
 - Backs up work hourly
@@ -44,7 +45,8 @@ Soft Skills
 - Organized
 - Problem Solver
 - Responsible
-Hard Skills
+
+### Hard Skills
 - 7 years of Unreal Engine experience
 - 7 years of Unity experience
 - 7 years of experience with a test-and-iteration driven agile workflow
