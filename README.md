@@ -1,34 +1,9 @@
-```java
-public class Ingmar extends GitHubUser {
-    public Ingmar() {
-    super("Ingmar van Busschbach", "Netherlands");
-
-    this.addLanguage("C#", "C++", "Javascript", "HTML", "CSS", "HLSL", "Dutch", "English", "German");
-    this.addDiscipline("Unreal Engine", "Unity", "Game Designer", "Systems Designer", "Level Designer", "Gameplay Programmer", "Systems programmer", "Shader Programmer", "Procedural Art Programmer");
-    }
-}
-
-public abstract class GitHubUser {
-
-    private final String name;
-    private final String country;
-
-    private ArrayList<String> languages = new ArrayList<>();
-    private ArrayList<String> disciplines = new ArrayList<>();
-
-    public GitHubUser(String name, String country) {
-        this.name = name;
-        this.country = country;
-    }
-
-    public void addLanguage(String... language) {
-        languages.addAll(language);
-    }
-    public void addDiscipline(String... discipline) {
-        disciplines.addAll(discipline);
-    }
-}
-```
+A creative and detail-oriented game engineer and designer with seven years of
+experience in Unreal Engine 4, Unreal Engine 5 and Unity, working on projects
+in teams of 7-12 people fulfilling various roles within the team. My agile, test-
+driven approach has shaped me into an adaptable team player focused on
+quality and innovation. I am always eager to learn new things and try new
+approaches.
 
 <table>
   <tr>
